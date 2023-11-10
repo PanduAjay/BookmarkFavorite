@@ -1,0 +1,50 @@
+.topBgColor {
+    background-color: #2d3a8c;
+    background-size: cover;
+    font-family: "Roboto";
+}
+
+.heading {
+    font-size: 30px;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.btBgColor {
+    background-color: #ffffff;
+    background-size: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    font-family: "Roboto";
+}
+
+.formContainer {
+    background-color: #e4e7eb;
+    border-radius: 15px;
+    padding-bottom: 30px;
+    font-family: "Roboto";
+    border: #cbd2d9 solid;
+}
+
+.button {
+    background-color: #21396c;
+    color: #ffffff;
+}
+
+label {
+    color: #7b8794;
+    font-weight: 500;
+}
+
+.item-container {
+    margin-top: 10px;
+    background-color: #f5f7fa;
+    padding: 15px;
+    border-radius: 15px;
+    border: #e4e7eb solid;
+}
+
+.itemsList {
+    margin: 0px;
+    padding: 0px;
+}
